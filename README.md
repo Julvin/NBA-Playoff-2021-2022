@@ -11,7 +11,7 @@ In this section, i try to query the individual statistical leader while also fil
 
 I generate a team statistics from the individual statistics, creating a new table
 
-3._Advance Stats_
+3. _Advance Stats_
 
 A simple advance statistics such as player who score more than their team average and player scoring contribution percentage for their team points
 
