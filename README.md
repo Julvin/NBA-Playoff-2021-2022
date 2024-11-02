@@ -16,6 +16,6 @@ I generate a team statistics from the individual statistics, creating a new tabl
 A simple advance statistics such as player who score more than their team average and player scoring contribution percentage for their team points
 
 _notes_
-1. The data source in kaggle when missing 
+1. The data source in kaggle went missing 
 2. Check out a simple dashboard i create from tableu in the link below
 https://public.tableau.com/app/profile/julvin.xu/viz/NBAPlayoff2021-2022/StatsLeaderboard
